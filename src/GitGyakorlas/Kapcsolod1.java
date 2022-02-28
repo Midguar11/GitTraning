@@ -1,7 +1,7 @@
 package GitGyakorlas;
 
 public class Kapcsolod1 {
-    // huuuuuuhhhuuuuuuu
+    // bamba eh
     // ezt megint atirom
     // uj sor is van csak ugy meg ugy
     // bovitek
