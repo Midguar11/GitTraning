@@ -1,7 +1,7 @@
 package GitGyakorlas;
 
 public class Kapcsolod1 {
-    // 1 sor ezt most bovitem a tesz keddveert
+    // atirom sor megint
     // ezt megint atirom
     // uj sor is van csak ugy meg ugy
 
