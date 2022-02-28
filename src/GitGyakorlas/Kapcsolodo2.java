@@ -1,7 +1,7 @@
 package GitGyakorlas;
 
 public class Kapcsolodo2 {
-    // 1 sor
+    // 1 ezt irom át
     // 2 sor
 // 3 sor
     // modositok 2
